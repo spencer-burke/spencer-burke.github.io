@@ -11,3 +11,10 @@ kramdown:
     block:
       line_numbers:
         true
+
+style: dark
+
+baseurl: "index"
+
+header_pages:
+  - index.md
