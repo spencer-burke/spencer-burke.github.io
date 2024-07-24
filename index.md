@@ -1,3 +1,9 @@
+---
+title: index
+layout: home
+permalink: /index
+---
+
 **About**
 Low Level Security enthusiast and Software Developer
 
