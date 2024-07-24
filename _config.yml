@@ -1,9 +1,20 @@
+title: 'spencer-burke.github.io'
+description: "blog containing all of my public projects"
+baseurl: "/spencer-burke.github.io"
+url: "https://spencer-burke.github.io/"
+
+header_pages:
+  - index.md
+  - ctf.md
+
+style: dark
+
 remote_theme: b2a3e8/jekyll-theme-console
 
+# Build settings
+markdown: kramdown
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-markdown: kramdown
 
 kramdown:
   syntax_highlighter: rouge
@@ -11,11 +22,3 @@ kramdown:
     block:
       line_numbers:
         true
-
-style: dark
-
-baseurl: "/"
-
-header_pages:
-  - index.md
-  - ctf.md
