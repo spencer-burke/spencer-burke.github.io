@@ -1,6 +1,6 @@
 title: 'spencer-burke.github.io'
 description: "blog containing all of my public projects"
-baseurl: "/spencer-burke.github.io"
+baseurl: "/"
 url: "https://spencer-burke.github.io/"
 
 header_pages:
@@ -9,12 +9,12 @@ header_pages:
 
 style: dark
 
-remote_theme: b2a3e8/jekyll-theme-console
 
 # Build settings
 markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
 
 kramdown:
   syntax_highlighter: rouge
