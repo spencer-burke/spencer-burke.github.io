@@ -1,6 +1,6 @@
 title: 'spencer-burke.github.io'
 description: "blog containing all of my public projects"
-baseurl: "/index"
+baseurl: ""
 url: "https://spencer-burke.github.io/"
 
 header_pages:
