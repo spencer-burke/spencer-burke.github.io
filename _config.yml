@@ -18,3 +18,4 @@ baseurl: "/"
 
 header_pages:
   - index.md
+  - ctf.md
