@@ -14,7 +14,7 @@ kramdown:
 
 style: dark
 
-baseurl: "index"
+baseurl: "/"
 
 header_pages:
   - index.md
