@@ -11,4 +11,4 @@ Low Level Security enthusiast and Software Developer
           .-.
          (0.0)
        '=.|m|.='
-        .='`"``=.
+      .='`"\``=.
