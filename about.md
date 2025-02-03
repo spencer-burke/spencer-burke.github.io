@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 **About**
-Low Level Security enthusiast and Software Developer
+Low Level Security Enthusiast and Software Developer
 
 **Interests**
 - malware reverse engineering
