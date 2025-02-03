@@ -6,6 +6,7 @@ url: "https://spencer-burke.github.io/"
 header_pages:
   - index.md
   - ctf.md
+  - projects.md
 
 style: dark
 
